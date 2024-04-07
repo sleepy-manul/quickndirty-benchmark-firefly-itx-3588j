@@ -17,7 +17,7 @@ Disclaimer / warnings:
      The kernel was recompiled to fit into openSUSE's standard kernel packaging. Sources:
      https://build.opensuse.org/package/show/home:sleepy-manul:ARM:Factory:Contrib:Firefly-ITX-3588J/kernel-firefly-itx-3588j:kernel-fireflyitx3588j
   C runtime library: glibc-2.39-4.2.aarch64
-  Bonnie++ benchmarking software: iozone-3.506-benchmark.32.22.aarch64
+  Benchmarking software: iozone-3.506-benchmark.32.22.aarch64
   
 Notes on btrfs:
 - btrfs is a copy-on-write (CoW) filesystem. That means when modifying an existing file, any changed blocks will first be 
