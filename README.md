@@ -8,7 +8,7 @@ Disclaimer / warnings:
 - I have not been paid by or received any benefits or favours from any of the manufacturers or vendors mentioned in this report. 
   All hardware was purchased with my private funds. All software used was provided by Firefly as part of their
   board support package (BSP) and/or is available under Open Source Software (OSS) licenses.
-- The following information was <REDACTED> for privacy reasons:
+- The following information was redacted from the hwinfo output for privacy reasons:
   - serial numbers
   - MAC and IPv4/IPv6 addresses
 - The software versions are in constant flux as I run a rolling Linux distribution (openSUSE Tumbleweed).
